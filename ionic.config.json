@@ -1,0 +1,8 @@
+{
+  "name": "StreetFestival",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f1f28daa"
+}
